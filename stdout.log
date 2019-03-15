@@ -1,0 +1,159 @@
+double free or corruption (out)
+runCATS.sh: line 1: 18575 Aborted                 (core dumped) ./cats -d "regions-npv" -bids 50 -goods 5 -n 10 -filename "./Instances/regions-npv_50_5_10_"
+double free or corruption (out)
+runCATS.sh: line 2: 18577 Aborted                 (core dumped) ./cats -d "regions-npv" -bids 100 -goods 5 -n 10 -filename "./Instances/regions-npv_100_5_10_"
+double free or corruption (out)
+runCATS.sh: line 3: 18579 Aborted                 (core dumped) ./cats -d "regions-npv" -bids 200 -goods 5 -n 10 -filename "./Instances/regions-npv_200_5_10_"
+double free or corruption (out)
+runCATS.sh: line 4: 18581 Aborted                 (core dumped) ./cats -d "regions-npv" -bids 400 -goods 5 -n 10 -filename "./Instances/regions-npv_400_5_10_"
+double free or corruption (out)
+runCATS.sh: line 5: 18583 Aborted                 (core dumped) ./cats -d "regions-npv" -bids 100 -goods 10 -n 10 -filename "./Instances/regions-npv_100_10_10_"
+double free or corruption (out)
+runCATS.sh: line 6: 18585 Aborted                 (core dumped) ./cats -d "regions-npv" -bids 200 -goods 10 -n 10 -filename "./Instances/regions-npv_200_10_10_"
+double free or corruption (out)
+runCATS.sh: line 7: 18587 Aborted                 (core dumped) ./cats -d "regions-npv" -bids 400 -goods 10 -n 10 -filename "./Instances/regions-npv_400_10_10_"
+double free or corruption (out)
+runCATS.sh: line 8: 18589 Aborted                 (core dumped) ./cats -d "regions-npv" -bids 800 -goods 10 -n 10 -filename "./Instances/regions-npv_800_10_10_"
+double free or corruption (out)
+runCATS.sh: line 9: 18591 Aborted                 (core dumped) ./cats -d "regions-npv" -bids 200 -goods 15 -n 10 -filename "./Instances/regions-npv_200_15_10_"
+double free or corruption (out)
+runCATS.sh: line 10: 18593 Aborted                 (core dumped) ./cats -d "regions-npv" -bids 400 -goods 15 -n 10 -filename "./Instances/regions-npv_400_15_10_"
+double free or corruption (out)
+runCATS.sh: line 11: 18597 Aborted                 (core dumped) ./cats -d "regions-npv" -bids 800 -goods 15 -n 10 -filename "./Instances/regions-npv_800_15_10_"
+double free or corruption (out)
+runCATS.sh: line 12: 18599 Aborted                 (core dumped) ./cats -d "regions-npv" -bids 1600 -goods 15 -n 10 -filename "./Instances/regions-npv_1600_15_10_"
+double free or corruption (out)
+runCATS.sh: line 13: 18601 Aborted                 (core dumped) ./cats -d "regions-npv" -bids 400 -goods 20 -n 10 -filename "./Instances/regions-npv_400_20_10_"
+double free or corruption (out)
+runCATS.sh: line 14: 18603 Aborted                 (core dumped) ./cats -d "regions-npv" -bids 800 -goods 20 -n 10 -filename "./Instances/regions-npv_800_20_10_"
+double free or corruption (out)
+runCATS.sh: line 15: 18605 Aborted                 (core dumped) ./cats -d "regions-npv" -bids 1600 -goods 20 -n 10 -filename "./Instances/regions-npv_1600_20_10_"
+double free or corruption (out)
+runCATS.sh: line 16: 18607 Aborted                 (core dumped) ./cats -d "regions-npv" -bids 3200 -goods 20 -n 10 -filename "./Instances/regions-npv_3200_20_10_"
+double free or corruption (out)
+runCATS.sh: line 17: 18609 Aborted                 (core dumped) ./cats -d "regions-npv" -bids 800 -goods 25 -n 10 -filename "./Instances/regions-npv_800_25_10_"
+double free or corruption (out)
+runCATS.sh: line 18: 18611 Aborted                 (core dumped) ./cats -d "regions-npv" -bids 1600 -goods 25 -n 10 -filename "./Instances/regions-npv_1600_25_10_"
+double free or corruption (out)
+runCATS.sh: line 19: 18613 Aborted                 (core dumped) ./cats -d "regions-npv" -bids 3200 -goods 25 -n 10 -filename "./Instances/regions-npv_3200_25_10_"
+double free or corruption (out)
+runCATS.sh: line 20: 18617 Aborted                 (core dumped) ./cats -d "regions-npv" -bids 6400 -goods 25 -n 10 -filename "./Instances/regions-npv_6400_25_10_"
+double free or corruption (out)
+runCATS.sh: line 21: 18619 Aborted                 (core dumped) ./cats -d "regions-npv" -bids 1600 -goods 30 -n 10 -filename "./Instances/regions-npv_1600_30_10_"
+double free or corruption (out)
+runCATS.sh: line 22: 18621 Aborted                 (core dumped) ./cats -d "regions-npv" -bids 3200 -goods 30 -n 10 -filename "./Instances/regions-npv_3200_30_10_"
+double free or corruption (out)
+runCATS.sh: line 23: 18623 Aborted                 (core dumped) ./cats -d "regions-npv" -bids 6400 -goods 30 -n 10 -filename "./Instances/regions-npv_6400_30_10_"
+double free or corruption (out)
+runCATS.sh: line 24: 18625 Aborted                 (core dumped) ./cats -d "regions-npv" -bids 12800 -goods 30 -n 10 -filename "./Instances/regions-npv_12800_30_10_"
+double free or corruption (out)
+runCATS.sh: line 25: 18627 Aborted                 (core dumped) ./cats -d "regions-npv" -bids 3200 -goods 35 -n 10 -filename "./Instances/regions-npv_3200_35_10_"
+double free or corruption (out)
+runCATS.sh: line 26: 18631 Aborted                 (core dumped) ./cats -d "regions-npv" -bids 6400 -goods 35 -n 10 -filename "./Instances/regions-npv_6400_35_10_"
+double free or corruption (out)
+runCATS.sh: line 27: 18633 Aborted                 (core dumped) ./cats -d "regions-npv" -bids 12800 -goods 35 -n 10 -filename "./Instances/regions-npv_12800_35_10_"
+double free or corruption (out)
+runCATS.sh: line 28: 18635 Aborted                 (core dumped) ./cats -d "regions-npv" -bids 25600 -goods 35 -n 10 -filename "./Instances/regions-npv_25600_35_10_"
+double free or corruption (out)
+runCATS.sh: line 29: 18637 Aborted                 (core dumped) ./cats -d "regions-npv" -bids 6400 -goods 40 -n 10 -filename "./Instances/regions-npv_6400_40_10_"
+double free or corruption (out)
+runCATS.sh: line 30: 18639 Aborted                 (core dumped) ./cats -d "regions-npv" -bids 12800 -goods 40 -n 10 -filename "./Instances/regions-npv_12800_40_10_"
+double free or corruption (out)
+runCATS.sh: line 31: 18643 Aborted                 (core dumped) ./cats -d "regions-npv" -bids 25600 -goods 40 -n 10 -filename "./Instances/regions-npv_25600_40_10_"
+double free or corruption (out)
+runCATS.sh: line 32: 18645 Aborted                 (core dumped) ./cats -d "regions-npv" -bids 51200 -goods 40 -n 10 -filename "./Instances/regions-npv_51200_40_10_"
+double free or corruption (out)
+runCATS.sh: line 33: 18647 Aborted                 (core dumped) ./cats -d "regions-npv" -bids 12800 -goods 45 -n 10 -filename "./Instances/regions-npv_12800_45_10_"
+double free or corruption (out)
+runCATS.sh: line 34: 18649 Aborted                 (core dumped) ./cats -d "regions-npv" -bids 25600 -goods 45 -n 10 -filename "./Instances/regions-npv_25600_45_10_"
+double free or corruption (out)
+runCATS.sh: line 35: 18653 Aborted                 (core dumped) ./cats -d "regions-npv" -bids 51200 -goods 45 -n 10 -filename "./Instances/regions-npv_51200_45_10_"
+double free or corruption (out)
+runCATS.sh: line 36: 18655 Aborted                 (core dumped) ./cats -d "regions-npv" -bids 102400 -goods 45 -n 10 -filename "./Instances/regions-npv_102400_45_10_"
+double free or corruption (out)
+runCATS.sh: line 37: 18657 Aborted                 (core dumped) ./cats -d "regions-npv" -bids 25600 -goods 50 -n 10 -filename "./Instances/regions-npv_25600_50_10_"
+double free or corruption (out)
+runCATS.sh: line 38: 18659 Aborted                 (core dumped) ./cats -d "regions-npv" -bids 51200 -goods 50 -n 10 -filename "./Instances/regions-npv_51200_50_10_"
+double free or corruption (out)
+runCATS.sh: line 39: 18665 Aborted                 (core dumped) ./cats -d "regions-npv" -bids 102400 -goods 50 -n 10 -filename "./Instances/regions-npv_102400_50_10_"
+double free or corruption (out)
+runCATS.sh: line 40: 18668 Aborted                 (core dumped) ./cats -d "regions-npv" -bids 204800 -goods 50 -n 10 -filename "./Instances/regions-npv_204800_50_10_"
+double free or corruption (out)
+runCATS.sh: line 41: 18672 Aborted                 (core dumped) ./cats -d "regions-upv" -bids 50 -goods 5 -n 10 -filename "./Instances/regions-upv_50_5_10_"
+double free or corruption (out)
+runCATS.sh: line 42: 18674 Aborted                 (core dumped) ./cats -d "regions-upv" -bids 100 -goods 5 -n 10 -filename "./Instances/regions-upv_100_5_10_"
+double free or corruption (out)
+runCATS.sh: line 43: 18676 Aborted                 (core dumped) ./cats -d "regions-upv" -bids 200 -goods 5 -n 10 -filename "./Instances/regions-upv_200_5_10_"
+double free or corruption (out)
+runCATS.sh: line 44: 18678 Aborted                 (core dumped) ./cats -d "regions-upv" -bids 400 -goods 5 -n 10 -filename "./Instances/regions-upv_400_5_10_"
+double free or corruption (out)
+runCATS.sh: line 45: 18680 Aborted                 (core dumped) ./cats -d "regions-upv" -bids 100 -goods 10 -n 10 -filename "./Instances/regions-upv_100_10_10_"
+double free or corruption (out)
+runCATS.sh: line 46: 18682 Aborted                 (core dumped) ./cats -d "regions-upv" -bids 200 -goods 10 -n 10 -filename "./Instances/regions-upv_200_10_10_"
+double free or corruption (out)
+runCATS.sh: line 47: 18684 Aborted                 (core dumped) ./cats -d "regions-upv" -bids 400 -goods 10 -n 10 -filename "./Instances/regions-upv_400_10_10_"
+double free or corruption (out)
+runCATS.sh: line 48: 18688 Aborted                 (core dumped) ./cats -d "regions-upv" -bids 800 -goods 10 -n 10 -filename "./Instances/regions-upv_800_10_10_"
+double free or corruption (out)
+runCATS.sh: line 49: 18690 Aborted                 (core dumped) ./cats -d "regions-upv" -bids 200 -goods 15 -n 10 -filename "./Instances/regions-upv_200_15_10_"
+double free or corruption (out)
+runCATS.sh: line 50: 18692 Aborted                 (core dumped) ./cats -d "regions-upv" -bids 400 -goods 15 -n 10 -filename "./Instances/regions-upv_400_15_10_"
+double free or corruption (out)
+runCATS.sh: line 51: 18694 Aborted                 (core dumped) ./cats -d "regions-upv" -bids 800 -goods 15 -n 10 -filename "./Instances/regions-upv_800_15_10_"
+runCATS.sh: line 52: 18696 Segmentation fault      (core dumped) ./cats -d "regions-upv" -bids 1600 -goods 15 -n 10 -filename "./Instances/regions-upv_1600_15_10_"
+free(): invalid next size (fast)
+runCATS.sh: line 53: 18698 Aborted                 (core dumped) ./cats -d "regions-upv" -bids 400 -goods 20 -n 10 -filename "./Instances/regions-upv_400_20_10_"
+double free or corruption (out)
+runCATS.sh: line 54: 18700 Aborted                 (core dumped) ./cats -d "regions-upv" -bids 800 -goods 20 -n 10 -filename "./Instances/regions-upv_800_20_10_"
+double free or corruption (out)
+runCATS.sh: line 55: 18702 Aborted                 (core dumped) ./cats -d "regions-upv" -bids 1600 -goods 20 -n 10 -filename "./Instances/regions-upv_1600_20_10_"
+double free or corruption (out)
+runCATS.sh: line 56: 18706 Aborted                 (core dumped) ./cats -d "regions-upv" -bids 3200 -goods 20 -n 10 -filename "./Instances/regions-upv_3200_20_10_"
+double free or corruption (out)
+runCATS.sh: line 57: 18708 Aborted                 (core dumped) ./cats -d "regions-upv" -bids 800 -goods 25 -n 10 -filename "./Instances/regions-upv_800_25_10_"
+double free or corruption (out)
+runCATS.sh: line 58: 18710 Aborted                 (core dumped) ./cats -d "regions-upv" -bids 1600 -goods 25 -n 10 -filename "./Instances/regions-upv_1600_25_10_"
+double free or corruption (out)
+runCATS.sh: line 59: 18712 Aborted                 (core dumped) ./cats -d "regions-upv" -bids 3200 -goods 25 -n 10 -filename "./Instances/regions-upv_3200_25_10_"
+double free or corruption (out)
+runCATS.sh: line 60: 18714 Aborted                 (core dumped) ./cats -d "regions-upv" -bids 6400 -goods 25 -n 10 -filename "./Instances/regions-upv_6400_25_10_"
+double free or corruption (out)
+runCATS.sh: line 61: 18716 Aborted                 (core dumped) ./cats -d "regions-upv" -bids 1600 -goods 30 -n 10 -filename "./Instances/regions-upv_1600_30_10_"
+double free or corruption (out)
+runCATS.sh: line 62: 18721 Aborted                 (core dumped) ./cats -d "regions-upv" -bids 3200 -goods 30 -n 10 -filename "./Instances/regions-upv_3200_30_10_"
+double free or corruption (out)
+runCATS.sh: line 63: 18725 Aborted                 (core dumped) ./cats -d "regions-upv" -bids 6400 -goods 30 -n 10 -filename "./Instances/regions-upv_6400_30_10_"
+double free or corruption (out)
+runCATS.sh: line 64: 18727 Aborted                 (core dumped) ./cats -d "regions-upv" -bids 12800 -goods 30 -n 10 -filename "./Instances/regions-upv_12800_30_10_"
+double free or corruption (out)
+runCATS.sh: line 65: 18729 Aborted                 (core dumped) ./cats -d "regions-upv" -bids 3200 -goods 35 -n 10 -filename "./Instances/regions-upv_3200_35_10_"
+double free or corruption (out)
+runCATS.sh: line 66: 18731 Aborted                 (core dumped) ./cats -d "regions-upv" -bids 6400 -goods 35 -n 10 -filename "./Instances/regions-upv_6400_35_10_"
+double free or corruption (out)
+runCATS.sh: line 67: 18733 Aborted                 (core dumped) ./cats -d "regions-upv" -bids 12800 -goods 35 -n 10 -filename "./Instances/regions-upv_12800_35_10_"
+double free or corruption (out)
+runCATS.sh: line 68: 18735 Aborted                 (core dumped) ./cats -d "regions-upv" -bids 25600 -goods 35 -n 10 -filename "./Instances/regions-upv_25600_35_10_"
+double free or corruption (out)
+runCATS.sh: line 69: 18739 Aborted                 (core dumped) ./cats -d "regions-upv" -bids 6400 -goods 40 -n 10 -filename "./Instances/regions-upv_6400_40_10_"
+double free or corruption (out)
+runCATS.sh: line 70: 18741 Aborted                 (core dumped) ./cats -d "regions-upv" -bids 12800 -goods 40 -n 10 -filename "./Instances/regions-upv_12800_40_10_"
+double free or corruption (out)
+runCATS.sh: line 71: 18743 Aborted                 (core dumped) ./cats -d "regions-upv" -bids 25600 -goods 40 -n 10 -filename "./Instances/regions-upv_25600_40_10_"
+double free or corruption (out)
+runCATS.sh: line 72: 18745 Aborted                 (core dumped) ./cats -d "regions-upv" -bids 51200 -goods 40 -n 10 -filename "./Instances/regions-upv_51200_40_10_"
+double free or corruption (out)
+runCATS.sh: line 73: 18749 Aborted                 (core dumped) ./cats -d "regions-upv" -bids 12800 -goods 45 -n 10 -filename "./Instances/regions-upv_12800_45_10_"
+double free or corruption (out)
+runCATS.sh: line 74: 18751 Aborted                 (core dumped) ./cats -d "regions-upv" -bids 25600 -goods 45 -n 10 -filename "./Instances/regions-upv_25600_45_10_"
+double free or corruption (out)
+runCATS.sh: line 75: 18753 Aborted                 (core dumped) ./cats -d "regions-upv" -bids 51200 -goods 45 -n 10 -filename "./Instances/regions-upv_51200_45_10_"
+double free or corruption (out)
+runCATS.sh: line 76: 18755 Aborted                 (core dumped) ./cats -d "regions-upv" -bids 102400 -goods 45 -n 10 -filename "./Instances/regions-upv_102400_45_10_"
+double free or corruption (out)
+runCATS.sh: line 77: 18759 Aborted                 (core dumped) ./cats -d "regions-upv" -bids 25600 -goods 50 -n 10 -filename "./Instances/regions-upv_25600_50_10_"
+double free or corruption (out)
+runCATS.sh: line 78: 18761 Aborted                 (core dumped) ./cats -d "regions-upv" -bids 51200 -goods 50 -n 10 -filename "./Instances/regions-upv_51200_50_10_"
+double free or corruption (out)
+runCATS.sh: line 79: 18765 Aborted                 (core dumped) ./cats -d "regions-upv" -bids 102400 -goods 50 -n 10 -filename "./Instances/regions-upv_102400_50_10_"
+double free or corruption (out)
+runCATS.sh: line 80: 18771 Aborted                 (core dumped) ./cats -d "regions-upv" -bids 204800 -goods 50 -n 10 -filename "./Instances/regions-upv_204800_50_10_"
